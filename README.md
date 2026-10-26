@@ -1,12 +1,13 @@
-# dbskill｜Skills 学习仓库
+# AI Skill Library｜公开 AI Skill 学习库
 
-这里集中保留 dontbesilent 的 dbskill Skill 源文件，便于逐项阅读和学习。每个 Skill 的定义位于 `skills/<名称>/SKILL.md`。
+这里整理公开项目中的 AI Skill 源文件，便于逐项阅读和学习。本仓库由「及格线聊 AI」维护，是独立的学习整理项目，不是原作者的官方仓库。每个 Skill 的定义位于 skills/<名称>/SKILL.md。
 
 ## 来源与许可
 
 - 原作者：dontbesilent
 - 上游仓库：[dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill)
-- 本仓库保留上游 `LICENSE`，采用 CC BY-NC 4.0。个人学习和非商业使用需注明来源；商业用途请先联系作者取得授权。
+- 本仓库名称：AI Skill Library（个人学习整理，非上游官方项目）
+- 本仓库保留上游 LICENSE，采用 CC BY-NC 4.0。个人学习和非商业使用需注明来源；商业用途请先联系作者取得授权。
 
 ## Skill 目录
 
@@ -65,4 +66,4 @@
 - [/dbs-xhs-title（旧入口）](skills/dbs-xhs-title/SKILL.md)
 - [/dbs-update（更新入口）](skills/dbs-update/SKILL.md)
 
-如需安装，请在仓库开放访问后使用：`npx -y skills add hongshuoguo2-cloud/dbskill-study -g --all`。
+安装命令：npx -y skills add hongshuoguo2-cloud/ai-skill-library -g --all
